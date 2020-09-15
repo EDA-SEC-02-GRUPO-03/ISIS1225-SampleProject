@@ -113,7 +113,6 @@ def newTagBook(name, id):
     tag['books'] = lt.newList()
     return tag
 
-
 # Funciones para agregar informacion al catalogo
 
 
